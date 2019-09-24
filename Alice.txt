@@ -5,3 +5,5 @@ Change in Alice.txt
 Change 1
 Change alice
 q
+bla bla bla
+this is a conflict
